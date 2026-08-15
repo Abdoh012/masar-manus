@@ -6,5 +6,5 @@
 // import from a deeper path than this file (R8). Features never import
 // from each other directly — promote to top-level shared/ on second use (R7).
 
-export { ProfileHeader } from "./student/components/profile-header/ProfileHeader";
-export { ProfilePage } from "./student/components/profile-page/ProfilePage";
+export { ProfileHeader } from "./components/profile-header/ProfileHeader";
+export { ProfilePage } from "./components/profile-page/ProfilePage";
