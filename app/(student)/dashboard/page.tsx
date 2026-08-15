@@ -4,7 +4,7 @@ import { ActiveTraining, ApplicationsSnapshot } from "@/features/applications";
 import { CertificatesSnapshot } from "@/features/certificates";
 import { RecommendedListings } from "@/features/listings";
 import { RecentNotifications } from "@/features/notifications";
-import { ProfileHeader } from "@/features/profiles";
+import { ProfileHeader } from "@/features//profiles/student/components/profile-header/ProfileHeader";
 
 export const metadata: Metadata = {
   title: "Dashboard",
