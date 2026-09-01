@@ -1,4 +1,17 @@
-# Masar — Project Scaffold
+# Masar — Frontend Scaffold (working repo)
+
+**Masar** connects students and fresh graduates with real companies offering
+training, hands-on experience, and short-term paid or unpaid project work —
+with a certification layer and two-way discovery. Full project: see
+[`Abdoh012/Masar`](https://github.com/Abdoh012/Masar).
+
+This repo tracks the early frontend scaffold: real infrastructure
+(Next.js 15, TypeScript, Tailwind v4, design system) with feature modules
+stubbed while the contract with the backend is nailed down.
+
+---
+
+## Scaffold notes
 
 Structure follows `nextjs-architecture-directive.md` +
 `component-structure-rules.md`. This is the bare skeleton agreed on:
